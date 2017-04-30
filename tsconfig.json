@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs", 
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true
+  },
+  "files": [
+    "index.js"
+  ]
+}

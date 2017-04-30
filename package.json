@@ -1,0 +1,11 @@
+{
+  "name": "relay-compiler-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript transformation for Relay Modern compiler",
+  "main": "index.js",
+  "author": "Stanislav Panferov <fnight.m@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.3.2"
+  }
+}
